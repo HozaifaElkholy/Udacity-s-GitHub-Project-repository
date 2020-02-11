@@ -1,0 +1,10 @@
+
+git clone https://github.com/HozaifaElkholy/Udacity-s-GitHub-Project-repository
+
+git status
+git add
+git commit -m "Add new file
+bikeshare.py"
+
+
+git push origin master
